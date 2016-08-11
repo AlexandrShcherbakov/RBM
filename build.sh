@@ -1,0 +1,1 @@
+mvn package -fae -DskipTests assembly:single
